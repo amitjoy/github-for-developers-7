@@ -5,3 +5,5 @@
 3. **Favourite Food**: Indian Spicy Foods
 4. **Hobby**: Playing Football
 5. **Favourite Color**: Sky Blue
+6. **Favourite Programming Language**: Java
+7. **Mother Tongue**: Bengali
